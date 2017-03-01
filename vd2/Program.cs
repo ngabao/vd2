@@ -15,6 +15,7 @@ namespace vd2
             for(int j = 0;j<1;j++)
             {
                 int t;
+                int m;
             }
         }
     }
