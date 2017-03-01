@@ -11,7 +11,11 @@ namespace vd2
         static void Main(string[] args)
         {
             int s;
+            int a;
+            for(int j = 0;j<1;j++)
+            {
 
+            }
         }
     }
 }
