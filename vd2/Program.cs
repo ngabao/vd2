@@ -10,6 +10,8 @@ namespace vd2
     {
         static void Main(string[] args)
         {
+            int s;
+
         }
     }
 }
