@@ -13,7 +13,8 @@ namespace vd2
             int s;
             int a;
             for(int j = 0;j<1;j++)
-            {
+            { 
+
 
                 int t;
                 int m;
